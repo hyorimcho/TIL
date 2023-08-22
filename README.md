@@ -18,3 +18,4 @@ Any comments will be appreciated.
 - [loading UI and streaming](/docs/nextjs/building-your-application/routing/6-loading-UI-and-streaming.md)
 - [error handling](/docs/nextjs/building-your-application/routing/7-error-handling.md)
 - [parallel routes](/docs/nextjs/building-your-application/routing/8-parallel-routes.md)
+- [intercepting routes](/docs/nextjs/building-your-application/routing/9-intercepting-routes.md)
