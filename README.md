@@ -19,3 +19,7 @@ Any comments will be appreciated.
 - [error handling](/docs/nextjs/building-your-application/routing/7-error-handling.md)
 - [parallel routes](/docs/nextjs/building-your-application/routing/8-parallel-routes.md)
 - [intercepting routes](/docs/nextjs/building-your-application/routing/9-intercepting-routes.md)
+
+#### Data Fetching
+
+- [fetching, caching and revalidating](/docs/nextjs/building-your-application/data%20fetching/1-fetching-caching-and-revalidating.md)
