@@ -23,3 +23,5 @@ Any comments will be appreciated.
 #### Data Fetching
 
 - [fetching, caching and revalidating](/docs/nextjs/building-your-application/data%20fetching/1-fetching-caching-and-revalidating.md)
+- [data fetching patterns](/docs/nextjs/building-your-application/data%20fetching/2-data-fetching-patterns.md)
+- [forms and mutations](/docs/nextjs/building-your-application/data%20fetching/3-forms-and-mutations.md)
